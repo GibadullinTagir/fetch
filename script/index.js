@@ -15,7 +15,6 @@ const userValue = {};
 
 searchRep.addEventListener("input", function (e) {
   debounceHandleInput(e);
-  // console.log(searchRep.value);
 });
 
 function handleInput(e) {
