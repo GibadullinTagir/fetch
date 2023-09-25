@@ -74,7 +74,7 @@
 .btn-close{
     width: 50px;
     height: 49.5px;
-    background: url(../img/x.png) no-repeat;
+    background: url(./img/x.png) no-repeat;
     background-size: 100%;
     transform: translateX(-32px);
     cursor: pointer;
